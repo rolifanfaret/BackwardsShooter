@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba87b6920c2dd9744bd95a9fea574eea, type: 3}
+  m_Name: EnemyData
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300002, guid: 335902fb5fba74948823671b7c9ea1d0, type: 3}
+  speed: 1.3
+  addSpeed: 0.35
+  addSpeedTime: 0.75
+  delay: 0.85
+  spawnSmallProbability: 0.3
+  spawnBigProbability: 0.5
+  spawnPositions:
+  - {x: -2.25, y: -2.47}
+  - {x: -1.562, y: -2.978}
+  - {x: -0.87, y: -3.49}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97b83b0e802f354da8c80ae89e0217a, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300004, guid: 9206d669770ae0549b19e959cdcede01, type: 3}
+  movementDistance: 70
+  maxMoveTime: 1.5
+  winScore: 50
+  upPosition: {x: 0.8, y: 2.29}
+  midPosition: {x: 1.54, y: 1.74}
+  downPosition: {x: 2.22, y: 1.23}
